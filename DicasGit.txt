@@ -1,0 +1,13 @@
+Git - Software de controle de versões
+
+Botão direito na pasta que pretende indexar o Git - Guit bash here : Isso abre o bash de comandos para o git, já na pasta em que se encontra
+
+Comandos:
+git init : indexa a pasta em questão ao git
+git clone 'link do repositório na net' 'PASTA' : Cria uma pasta e clona o repositório requerido para dentro dessa pasta
+git add index.php : levar o arquivo em questão a stage area, um tipo de fila antes de enviar os arquivos para o repositório on line
+git add --all : levar todos os arquivos da pasta, inclusive atualiza arquivos excluídos, para a stage area
+
+
+
+
